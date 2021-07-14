@@ -1,5 +1,6 @@
 # ForgeryNIR: Deep Face Forgery and Detection in Near-Infrared Scenario
 
+![数据库总构成图](source/数据库总构成图.png)
 This repository provides the dataset and code for the following paper:
 
 ---
@@ -9,7 +10,6 @@ Deep face forgery and detection is an emerging topic due to the development of G
 
 ## Dataset
 ---
-![数据库总构成图](source/数据库总构成图.png)
 
 ![数据库示例](source/数据库示例.png)
 ---
