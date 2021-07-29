@@ -23,7 +23,7 @@ Example images selected from ForgeryNIR, real images are collected in (a) CASIA 
 
 ## Download
 
-Our dataset will be published soon
+Our dataset will be published soon.
 
 ## Summary
 
