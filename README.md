@@ -1,6 +1,6 @@
 # ForgeryNIR: Deep Face Forgery and Detection in Near-Infrared Scenario
 
-![数据库总构成图](source/数据库总构成图.png)
+![数据库总构成图](source/dataset.png)
 This repository provides the dataset and code for the following paper:
 
 ---
@@ -31,7 +31,7 @@ CASIA NIR-VIS 2.0  is a dataset proposed for NIR-VIS recognition including 725 i
 
 ### Forged Face Generation
 
-![Generation](source/First_Figure.png)
+![Generation](source/First_figure.png)
 
 ### Face Augumentation
 We carefully apply five types of perturbations to manipulate the fake images at five intensity levels, leading to 25 perturbations in total to mimic real-world image processing and transmission situations.
