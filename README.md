@@ -23,7 +23,41 @@ Example images selected from ForgeryNIR, real images are collected in (a) CASIA 
 
 ## Download
 
-Our dataset will be published soon.
+|       Dataset name       |         Download         |Generate method|      Deepfake images     |           Actors           |
+   |--------------------------|--------------------------|----|--------------------------|----------------------------|
+   |   **ForgeryNIR**   |[**download (4md6)**](https://pan.baidu.com/s/1rCiiX1lIhOuqApEndrY1rQ)|**Internet**|**50000**|**-**|
+
+
+**File Structure**:
+~~~
+ForgeryNIR
+                    
+                    |--ForgeryNIR-std
+                                 |--0_real
+                                 |--cyclegan
+                                 |--progan
+                                 |--stylegan
+                                 |--stylegan2      
+                    |--ForgeryNIR-rand
+                                 |--0_real
+                                 |--cyclegan
+                                 |--progan
+                                 |--stylegan
+                                 |--stylegan2
+                    |--ForgeryNIR-mix
+                                 |--0_real
+                                 |--cyclegan
+                                 |--progan
+                                 |--stylegan
+                                 |--stylegan2
+
+ForgeryNIR+ 
+                   |--0_real
+                   |--cyclegan
+                   |--progan
+                   |--stylegan
+                   |--stylegan2
+~~~
 
 ## Summary
 
@@ -42,7 +76,7 @@ We carefully apply five types of perturbations to manipulate the fake images at 
 
 ### Baselines
 
-We select three representative forgery detection baselines([CNNDetection](https://arxiv.org/abs/1912.11035), [GANFingerprint](https://arxiv.org/pdf/1811.08180.pdf), [GANDCTAnalysis](https://arxiv.org/abs/2003.08685)) using the ForgeryNIR dataset. Please refer to our paper for more information.
+We select six representative forgery detection baselines([CNNDetection](https://arxiv.org/abs/1912.11035), [GANFingerprint](https://arxiv.org/pdf/1811.08180.pdf), [GANDCTAnalysis](https://arxiv.org/abs/2003.08685), [Wavelet-packet](https://arxiv.org/abs/2106.09369), [Xception](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Hulzebosch_Detecting_CNN-Generated_Facial_Images_in_Real-World_Scenarios_CVPRW_2020_paper.pdf), [MLP](https://openaccess.thecvf.com/content/CVPR2021/papers/Chandrasegaran_A_Closer_Look_at_Fourier_Spectrum_Discrepancies_for_CNN-Generated_Images_CVPR_2021_paper.pdf)) using the ForgeryNIR dataset. Please refer to our paper for more information.
 
 ## Citation
 
