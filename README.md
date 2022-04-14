@@ -72,7 +72,7 @@ CASIA NIR-VIS 2.0  is a dataset proposed for NIR-VIS recognition including 725 i
 ### Face Augumentation
 We carefully apply five types of perturbations to manipulate the fake images at five intensity levels, leading to 25 perturbations in total to mimic real-world image processing and transmission situations.
 
-![Perturbations](source/perturbation_level.png=200x)
+![Perturbations](source/perturbation_level.png=20x)
 
 ### Baselines
 
