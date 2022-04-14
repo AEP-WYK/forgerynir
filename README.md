@@ -86,18 +86,15 @@ We carefully apply five types of perturbations to manipulate the fake images at 
 We select six representative forgery detection baselines([CNNDetection](https://arxiv.org/abs/1912.11035), [GANFingerprint](https://arxiv.org/pdf/1811.08180.pdf), [GANDCTAnalysis](https://arxiv.org/abs/2003.08685), [Wavelet-packet](https://arxiv.org/abs/2106.09369), [Xception](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Hulzebosch_Detecting_CNN-Generated_Facial_Images_in_Real-World_Scenarios_CVPRW_2020_paper.pdf), [MLP](https://openaccess.thecvf.com/content/CVPR2021/papers/Chandrasegaran_A_Closer_Look_at_Fourier_Spectrum_Discrepancies_for_CNN-Generated_Images_CVPR_2021_paper.pdf)) using the ForgeryNIR dataset. Please refer to our paper for more information.
 
 ## Citation
-
+```
 @article{wang2022forgerynir,
   title={ForgeryNIR: Deep Face Forgery and Detection in Near-Infrared Scenario},
-  
   author={Wang, Yukai and Peng, Chunlei and Liu, Decheng and Wang, Nannan and Gao, Xinbo},
-  
   journal={IEEE Transactions on Information Forensics and Security},
-  
   year={2022},
-  
   publisher={IEEE}
 }
+```
 
 
 
