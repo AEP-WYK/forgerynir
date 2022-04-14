@@ -78,7 +78,8 @@ We carefully apply five types of perturbations to manipulate the fake images at 
 <div align="center">
 	<img src="source/perturbation_level.png" width="50%">
 </div>
-
+Examples of visual quality after adding five types of perturbations:
+(a) Local block-based distortion. (b) Change in color contrast. (c) Gaussian blur. (d) Gaussian white noise. (e) JPEG compression.
 
 ### Baselines
 
