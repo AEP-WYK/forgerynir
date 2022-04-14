@@ -18,6 +18,7 @@ Several face manipulation results:
 
 <p align="center">
   <img  src="source/数据库示例.png", width="50%">
+  <img src="source/perturbation_level.png" width="50%">
 </p>
 
 
@@ -78,7 +79,10 @@ CASIA NIR-VIS 2.0  is a dataset proposed for NIR-VIS recognition including 725 i
 ### Face Augumentation
 We carefully apply five types of perturbations to manipulate the fake images at five intensity levels, leading to 25 perturbations in total to mimic real-world image processing and transmission situations.
 
-![Perturbations](source/perturbation_level.png)
+<div align="center">
+	<img src="source/perturbation_level.png" width="50%">
+</div>
+
 
 ### Baselines
 
