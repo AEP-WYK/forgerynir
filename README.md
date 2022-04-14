@@ -71,14 +71,14 @@ CASIA NIR-VIS 2.0  is a dataset proposed for NIR-VIS recognition including 725 i
 
 ### Forged Face Generation
 <div align="center">
-	<img src="source/First_figure.png" width="50%">
+	<img src="source/First_figure.png" width="80%">
 </div>
-![Generation](source/First_figure.png)
+
 
 ### Face Augumentation
 We carefully apply five types of perturbations to manipulate the fake images at five intensity levels, leading to 25 perturbations in total to mimic real-world image processing and transmission situations.
 
-![Perturbations](source/perturbation_level.png=20x)
+![Perturbations](source/perturbation_level.png)
 
 ### Baselines
 
