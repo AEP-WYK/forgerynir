@@ -10,7 +10,6 @@ Deep face forgery and detection is an emerging topic due to the development of G
 
 ## Dataset
 
-ForgeryNIR dataset will be published soon.
 Several face manipulation results:
 
 
@@ -25,7 +24,7 @@ Example images selected from ForgeryNIR, real images are collected in (a) CASIA 
 
 ## Download
 
-|       Dataset name       |         Download         |Generate method|      Deepfake images     |           Actors           |
+|       Dataset name       |         Download         |Generate method|      Images     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
    |   **ForgeryNIR**   |[**download (4md6)**](https://pan.baidu.com/s/1rCiiX1lIhOuqApEndrY1rQ)|**GANs**|**50000**|**-**|
 
