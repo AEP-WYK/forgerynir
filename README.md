@@ -12,12 +12,10 @@ Deep face forgery and detection is an emerging topic due to the development of G
 
 ForgeryNIR dataset will be published soon.
 Several face manipulation results:
-<!-- <p align="center">
-  <img  src="source/数据库示例.png">
-</p> -->
+
 
 <p align="center">
-  <img  src="source/数据库示例.png", width="40%">
+  <img  src="source/examples.png", width="50%">
 </p>
 
 
