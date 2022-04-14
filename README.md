@@ -87,7 +87,7 @@ We select six representative forgery detection baselines([CNNDetection](https://
 
 ## Citation
 
->@article{wang2022forgerynir,
+@article{wang2022forgerynir,
   title={ForgeryNIR: Deep Face Forgery and Detection in Near-Infrared Scenario},
   author={Wang, Yukai and Peng, Chunlei and Liu, Decheng and Wang, Nannan and Gao, Xinbo},
   journal={IEEE Transactions on Information Forensics and Security},
