@@ -17,8 +17,7 @@ Several face manipulation results:
 </p> -->
 
 <p align="center">
-  <img  src="source/数据库示例.png", width="50%">
-  <img src="source/perturbation_level.png" width="50%">
+  <img  src="source/数据库示例.png", width="40%">
 </p>
 
 
