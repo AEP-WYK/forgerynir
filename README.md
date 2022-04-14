@@ -66,7 +66,9 @@ ForgeryNIR+
 CASIA NIR-VIS 2.0  is a dataset proposed for NIR-VIS recognition including 725 identities with 17,580 face images. and the ages of the identities are very wide, from children to old people. the faces in the near-infrared modality are selected as our face generation training source data.
 
 ### Forged Face Generation
-
+<div align="center">
+	<img src="source/First_figure.png" width="50%">
+</div>
 ![Generation](source/First_figure.png)
 
 ### Face Augumentation
