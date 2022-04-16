@@ -26,7 +26,7 @@ Example images selected from ForgeryNIR, real images are collected in (a) CASIA 
 
 |       Dataset name       |         Download         |Generate method|      Images     |           Actors           |
    |--------------------------|--------------------------|----|--------------------------|----------------------------|
-   |   **ForgeryNIR**   |[**download (rz42)**](https://pan.baidu.com/s/1GSPn3AtpubPtehSLnweohw )|**GANs**|**50000**|**-**|
+   |   **ForgeryNIR**   |[**Baidu Netdisk(rz42)**](https://pan.baidu.com/s/1GSPn3AtpubPtehSLnweohw ) or [**MEGA**](https://mega.nz/folder/Q6RAWSTK#xTmoc8-2F23otpZvoNGH0w)|**GANs**|**50000**|**-**|
 
 
 **File Structure**:
